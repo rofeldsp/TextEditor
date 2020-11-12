@@ -1,2 +1,2 @@
 # TextEditor
-TextEditor with UI on Swing
+TextEditor with UI on Swing (in progress)
